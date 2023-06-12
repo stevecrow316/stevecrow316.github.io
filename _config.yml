@@ -15,7 +15,7 @@ social:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 704FF2
-  primary-rgb: "140, 50, 242"
+  primary-rgb: "82, 64, 239"
   secondary: 553C70
   secondary-dark: 412F59
   section-tout: eaf1f1
