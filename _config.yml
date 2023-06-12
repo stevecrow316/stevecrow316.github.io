@@ -15,10 +15,10 @@ social:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 704FF2
-  primary-rgb: "82, 64, 239"
+  primary-rgb: "112, 79, 242"
   secondary: 553C70
   secondary-dark: 412F59
-  section-tout: 8181EF
+  section-tout: eaf1f1
 
 
 
